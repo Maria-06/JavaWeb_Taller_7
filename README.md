@@ -27,8 +27,8 @@
 <p align="center"> se crea el  archivo "TestCategoryRepositoryImpl" en donde se pobrarán los metodos</p>
 <p align="center">
     <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/15d339b5-bc2e-485b-9179-f928050ff781">
-    <img src="![image](https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/bf0efb43-8941-4f2c-9d33-2b5285f3a963)
-">
+  <p align="center">Prueba en Consola</p>
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/bf0efb43-8941-4f2c-9d33-2b5285f3a963">
 </p>
 
 <p align="center">
